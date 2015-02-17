@@ -1,4 +1,8 @@
 <?php
+require 'session.php'
+?>
+
+<?php
 
 
 if (isset($_REQUEST['activo'])){ 
