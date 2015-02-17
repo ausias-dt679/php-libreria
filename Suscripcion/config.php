@@ -1,4 +1,8 @@
 <?php
+require 'session.php'
+?>
+
+<?php
 
 
 $DB_HOST = "10.3.4.253";
